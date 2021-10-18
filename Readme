@@ -1,0 +1,7 @@
+
+
+Steps
+1. Download latest version of java and configure to this project in sdk
+2. Download latest version of Maven and configure to the project and the necessary dependencies are set in pom file,
+navigate to project>select project and open.after opening project right click > navigate to maven and reload project
+3. Run the file from Runnerclass in src/test/runner and all the tests will run

@@ -48,7 +48,7 @@ public class util extends webconnector {
     }
 
     public void selectByVisibleText(WebElement element, String value) {
-
+        waitforelementtoappear(element);
         Select objSelect = new Select(element);
         objSelect.selectByVisibleText(value);
     }
@@ -67,6 +67,19 @@ public class util extends webconnector {
         }
 
         js.executeScript("arguments[0].setAttribute('style','border: solid 2px white');", element);
+
+    }
+
+
+    public void sendKeysText(WebElement element, String text) {
+        waitforelementtoappear(element);
+        element.sendKeys(text);
+
+    }
+
+    public void seleniumClick(WebElement element) {
+        waitforelementtoappear(element);
+        element.click();
 
     }
 

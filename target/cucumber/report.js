@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 2115155150,
+  "duration": 2751599444,
   "status": "passed"
 });
 formatter.scenario({
@@ -87,7 +87,7 @@ formatter.match({
   "location": "homepagestepdefs.navigateToWebsite()"
 });
 formatter.result({
-  "duration": 1410186738,
+  "duration": 1698479461,
   "status": "passed"
 });
 formatter.match({
@@ -100,7 +100,7 @@ formatter.match({
   "location": "homepagestepdefs.iEnterFirstnameAsOfNewCustomer(String)"
 });
 formatter.result({
-  "duration": 366796656,
+  "duration": 442563082,
   "status": "passed"
 });
 formatter.match({
@@ -113,7 +113,7 @@ formatter.match({
   "location": "homepagestepdefs.iEnterLastnameAsOfNewCustomer(String)"
 });
 formatter.result({
-  "duration": 255440657,
+  "duration": 285564209,
   "status": "passed"
 });
 formatter.match({
@@ -126,7 +126,7 @@ formatter.match({
   "location": "homepagestepdefs.iSelectTitleAs(String)"
 });
 formatter.result({
-  "duration": 247261518,
+  "duration": 291741225,
   "status": "passed"
 });
 formatter.match({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "homepagestepdefs.iSelectOccupationAs(String)"
 });
 formatter.result({
-  "duration": 324224417,
+  "duration": 377274626,
   "status": "passed"
 });
 formatter.match({
@@ -152,7 +152,7 @@ formatter.match({
   "location": "homepagestepdefs.iEnterPhonenumber(String)"
 });
 formatter.result({
-  "duration": 278814826,
+  "duration": 330705903,
   "status": "passed"
 });
 formatter.match({
@@ -165,7 +165,7 @@ formatter.match({
   "location": "homepagestepdefs.iEnterEmailAs(String)"
 });
 formatter.result({
-  "duration": 346326481,
+  "duration": 427854479,
   "status": "passed"
 });
 formatter.match({
@@ -186,7 +186,7 @@ formatter.match({
   "location": "homepagestepdefs.iEnterDOBAsDayMonthAndYear(String,String,String)"
 });
 formatter.result({
-  "duration": 715076961,
+  "duration": 777863372,
   "status": "passed"
 });
 formatter.match({
@@ -199,14 +199,14 @@ formatter.match({
   "location": "homepagestepdefs.iEnterMatrinalStatus(String)"
 });
 formatter.result({
-  "duration": 242618327,
+  "duration": 268159670,
   "status": "passed"
 });
 formatter.match({
   "location": "homepagestepdefs.iEnterAnotherOccupationAsNo()"
 });
 formatter.result({
-  "duration": 203656055,
+  "duration": 222674182,
   "status": "passed"
 });
 formatter.match({
@@ -223,14 +223,14 @@ formatter.match({
   "location": "homepagestepdefs.iEnterAddressAsAreaAndLocation(String,String)"
 });
 formatter.result({
-  "duration": 2350323468,
+  "duration": 2407281491,
   "status": "passed"
 });
 formatter.match({
   "location": "homepagestepdefs.iEnterOccupationAddressYes()"
 });
 formatter.result({
-  "duration": 202287207,
+  "duration": 239447615,
   "status": "passed"
 });
 formatter.match({
@@ -247,11 +247,11 @@ formatter.match({
   "location": "homepagestepdefs.iSelectPropertyAsAndTypeIn(String,String)"
 });
 formatter.result({
-  "duration": 479065902,
+  "duration": 542209727,
   "status": "passed"
 });
 formatter.after({
-  "duration": 15640,
+  "duration": 13765,
   "status": "passed"
 });
 });
